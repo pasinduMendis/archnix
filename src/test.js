@@ -81,7 +81,7 @@ const Test = ()=>{
             
           },
           rectangle8 : {
-            width: '40%',
+            width: '50%',
             alignItems:"center",
             height: 56,
             borderRadius: 30,
